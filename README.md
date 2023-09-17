@@ -1,6 +1,6 @@
 ![](https://github.com/steadyfall/RedWish/blob/3ef2db47aecc3d9dd9b4e8bf0c4e2f86f00a7966/non-website-related/logo.png)
 # RedWish
-An [online platform](https://steadyfall.github.io/RedWish/) which connects people to the easiness of blood donation-transfusion.
+An [online platform](https://65069ec66403780e8aa39c15--glowing-yeot-f76625.netlify.app) which connects people to the easiness of blood donation-transfusion.
 </br>
 </br>
 !['RedWish Main Page'](https://github.com/steadyfall/RedWish/blob/3ef2db47aecc3d9dd9b4e8bf0c4e2f86f00a7966/non-website-related/redwish-main-page.png 'RedWish Main Page')
